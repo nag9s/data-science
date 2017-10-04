@@ -2,9 +2,7 @@ The typical data science process consists of six steps through which you’ll it
 
 ![](/assets/import.png)
 
-
-
-Skillset Of Data Scientist
+Skillset Of Data Scientist   \( From Practical Data Science with hadoop and spark\)
 
 ![](/assets/skillset.png)
 
