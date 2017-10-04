@@ -1,4 +1,10 @@
- The typical data science process consists of six steps through which you’ll iterate
+The typical data science process consists of six steps through which you’ll iterate
 
 ![](/assets/import.png)
+
+
+
+
+
+![](/assets/skillset.png)
 
