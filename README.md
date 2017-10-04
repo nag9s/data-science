@@ -6,3 +6,7 @@ Skillset Of Data Scientist   \( From Practical Data Science with hadoop and spar
 
 ![](/assets/skillset.png)
 
+
+
+![](/assets/LifeCycle.png)
+
