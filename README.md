@@ -6,9 +6,9 @@ Skillset Of Data Scientist   \( From Practical Data Science with hadoop and spar
 
 ![](/assets/skillset.png)
 
-
-
-
-
 **The Data Science Project Life Cycle**
+
+
+
+
 
